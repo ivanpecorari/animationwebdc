@@ -1,0 +1,23 @@
+body,
+html {
+    height: 100%;
+    margin: 0;
+}
+
+body {
+    display: grid;
+    justify-items: center
+}
+
+.row {
+    display: flex;
+  }
+  
+  .column {
+    flex: 50%;
+  }
+
+
+#bm {
+    width: 250px;
+}
